@@ -1,0 +1,71 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CardIOBinding.iOS", "CardIOBinding.iOS", "{C44EC83F-588C-4EC4-AAA6-637BE176C384}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CardIOSample.iOS", "sample\CardIOSample.iOS.csproj", "{6137AC33-5677-4D79-930B-6E8CEE8DF4E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CardIOSDK.iOS", "binding\CardIOSDK.iOS.csproj", "{0369BE4F-95E0-4809-9097-419B7C674BE1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+		Release|iPhone = Release|iPhone
+		Ad-Hoc|iPhone = Ad-Hoc|iPhone
+		AppStore|iPhone = AppStore|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0369BE4F-95E0-4809-9097-419B7C674BE1}.Ad-Hoc|iPhone.ActiveCfg = Debug|Any CPU
+		{0369BE4F-95E0-4809-9097-419B7C674BE1}.Ad-Hoc|iPhone.Build.0 = Debug|Any CPU
+		{0369BE4F-95E0-4809-9097-419B7C674BE1}.AppStore|iPhone.ActiveCfg = Debug|Any CPU
+		{0369BE4F-95E0-4809-9097-419B7C674BE1}.AppStore|iPhone.Build.0 = Debug|Any CPU
+		{0369BE4F-95E0-4809-9097-419B7C674BE1}.Debug|iPhone.ActiveCfg = Debug|Any CPU
+		{0369BE4F-95E0-4809-9097-419B7C674BE1}.Debug|iPhone.Build.0 = Debug|Any CPU
+		{0369BE4F-95E0-4809-9097-419B7C674BE1}.Debug|iPhoneSimulator.ActiveCfg = Debug|Any CPU
+		{0369BE4F-95E0-4809-9097-419B7C674BE1}.Debug|iPhoneSimulator.Build.0 = Debug|Any CPU
+		{0369BE4F-95E0-4809-9097-419B7C674BE1}.Release|iPhone.ActiveCfg = Release|Any CPU
+		{0369BE4F-95E0-4809-9097-419B7C674BE1}.Release|iPhone.Build.0 = Release|Any CPU
+		{0369BE4F-95E0-4809-9097-419B7C674BE1}.Release|iPhoneSimulator.ActiveCfg = Release|Any CPU
+		{0369BE4F-95E0-4809-9097-419B7C674BE1}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
+		{6137AC33-5677-4D79-930B-6E8CEE8DF4E6}.Ad-Hoc|iPhone.ActiveCfg = Ad-Hoc|iPhone
+		{6137AC33-5677-4D79-930B-6E8CEE8DF4E6}.Ad-Hoc|iPhone.Build.0 = Ad-Hoc|iPhone
+		{6137AC33-5677-4D79-930B-6E8CEE8DF4E6}.AppStore|iPhone.ActiveCfg = AppStore|iPhone
+		{6137AC33-5677-4D79-930B-6E8CEE8DF4E6}.AppStore|iPhone.Build.0 = AppStore|iPhone
+		{6137AC33-5677-4D79-930B-6E8CEE8DF4E6}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{6137AC33-5677-4D79-930B-6E8CEE8DF4E6}.Debug|iPhone.Build.0 = Debug|iPhone
+		{6137AC33-5677-4D79-930B-6E8CEE8DF4E6}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{6137AC33-5677-4D79-930B-6E8CEE8DF4E6}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{6137AC33-5677-4D79-930B-6E8CEE8DF4E6}.Release|iPhone.ActiveCfg = Release|iPhone
+		{6137AC33-5677-4D79-930B-6E8CEE8DF4E6}.Release|iPhone.Build.0 = Release|iPhone
+		{6137AC33-5677-4D79-930B-6E8CEE8DF4E6}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{6137AC33-5677-4D79-930B-6E8CEE8DF4E6}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{6137AC33-5677-4D79-930B-6E8CEE8DF4E6} = {C44EC83F-588C-4EC4-AAA6-637BE176C384}
+		{0369BE4F-95E0-4809-9097-419B7C674BE1} = {C44EC83F-588C-4EC4-AAA6-637BE176C384}
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = sample\CardIOSample.iOS.csproj
+		Policies = $0
+		$0.DotNetNamingPolicy = $1
+		$1.DirectoryNamespaceAssociation = None
+		$1.ResourceNamePolicy = FileFormatDefault
+		$0.TextStylePolicy = $2
+		$2.inheritsSet = null
+		$2.scope = text/x-csharp
+		$0.CSharpFormattingPolicy = $3
+		$3.IndentSwitchBody = True
+		$3.AfterDelegateDeclarationParameterComma = True
+		$3.inheritsSet = Mono
+		$3.inheritsScope = text/x-csharp
+		$3.scope = text/x-csharp
+		$0.TextStylePolicy = $4
+		$4.FileWidth = 120
+		$4.TabsToSpaces = False
+		$4.inheritsSet = VisualStudio
+		$4.inheritsScope = text/plain
+		$4.scope = text/plain
+	EndGlobalSection
+EndGlobal

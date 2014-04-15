@@ -1,0 +1,22 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.IPhoneRetina4_64.7.1" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="sample/MainViewController.cs">
+    <Files>
+      <File FileName="sample/Info.plist" />
+      <File FileName="sample/DispatchingCardIOViewController.cs" Line="10" Column="16" />
+      <File FileName="sample/Constants.cs" Line="3" Column="27" />
+      <File FileName="sample/CardIODispatcher.cs" Line="10" Column="14" />
+      <File FileName="sample/Main.cs" Line="7" Column="27" />
+      <File FileName="sample/AppDelegate.cs" Line="7" Column="27" />
+      <File FileName="sample/MainViewController.cs" Line="14" Column="37" />
+      <File FileName="binding/ApiDefinition.cs" Line="7" Column="24" />
+      <File FileName="binding/StructsAndEnums.cs" Line="3" Column="24" />
+      <File FileName="binding/libCardIO.linkwith.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <AuthorInfo Name="William Thomas" Email="wsthomas@willseph.com" Copyright="2014 Willseph Design" Company="Willseph Design" Trademark="" />
+</Properties>
